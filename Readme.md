@@ -58,7 +58,14 @@ Follow these steps to set up the project locally:
    ```
 
 2. **Open the project**:
-   Open the `index.html` file in a browser to start the game.
+
+   - Step 1: Open the `index.html` file in a browser to start the game.
+   - Step 2: Open terminal and type `npx http-server`
+   - Step 3: Click y and click on the redirected url eg:-`npx http-server`
+   - Available on:
+     - http://127.0.0.1:8080
+     - http://192.168.29.178:8080
+   - Hit `CTRL+C` to stop the server
 
 3. **Optional**: Use a local server (e.g., [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)) if you encounter CORS issues.
 
