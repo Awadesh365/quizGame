@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quiz>
+    <question>
+        <text>What is the capital of France?</text>
+        <option>A. Berlin</option>
+        <option>B. Madrid</option>
+        <option>C. Paris</option>
+        <option>D. Rome</option>
+        <answer>C</answer>
+    </question>
+    <question>
+        <text>Which planet is known as the Red Planet?</text>
+        <option>A. Earth</option>
+        <option>B. Mars</option>
+        <option>C. Venus</option>
+        <option>D. Jupiter</option>
+        <answer>B</answer>
+    </question>
+    <question>
+        <text>What is the largest ocean on Earth?</text>
+        <option>A. Atlantic</option>
+        <option>B. Indian</option>
+        <option>C. Arctic</option>
+        <option>D. Pacific</option>
+        <answer>D</answer>
+    </question>
+</quiz>
